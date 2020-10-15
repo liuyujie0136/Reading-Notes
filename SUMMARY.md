@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part 1](part1/intro1.md)
+* [Part 1](part1/part1.md)
   * [美国宪政历程](part1/美国宪政历程.md)
   * [看见](part1/看见.md)
   * [重新发现社会](part1/重新发现社会.md)
@@ -11,12 +11,12 @@
   * [刀锋](part1/刀锋.md)
   * [一个人的村庄](part1/一个人的村庄.md)
   * [其他](part1/其他.md)
-* [Part 2](part2/intro2.md)
+* [Part 2](part2/part2.md)
   * [悦读经典计划](part2/悦读经典计划.md)
   * [看不见的城市](part2/看不见的城市.md)
   * [美的历程](part2/美的历程.md)
   * [乡土中国·生育制度](part2/乡土中国·生育制度.md)
-* [Part 3](part3/intro3.md)
+* [Part 3](part3/part3.md)
   * [城门开](part3/城门开.md)
   * [南京传](part3/南京传.md)
   * [古都·雪国](part3/古都·雪国.md)
