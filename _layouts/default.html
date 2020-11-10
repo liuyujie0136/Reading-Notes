@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://liuyujie0136.github.io/">Website by liuyujie0136</a></h1>
+        
+        <img src="https://github.com/liuyujie0136/liuyujie0136.github.io/raw/master/logo.jpg" alt="Logo" />
+        
+        <p>A website for self learning, collecting and sharing.</p>
+       
+        <p class="view"><a href="https://liuyujie0136.github.io/contact-me">Contact Me</a></p>
+
+        <ul class="downloads">
+          <li><a href="{{ "https://www.google.com/" }}">Visit <strong>Google</strong></a></li>
+          <li><a href="{{ "https://pubmed.ncbi.nlm.nih.gov/" }}">Visit <strong>PubMed</strong></a></li>
+          <li><a href="{{ "https://www.nature.com/" }}">Visit <strong>Nature</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
