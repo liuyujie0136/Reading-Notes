@@ -31,4 +31,6 @@
   * [是枝裕和人间三部曲](part3/是枝裕和人间三部曲.md)
   * [在中途换飞机的时候](part3/在中途换飞机的时候.md)
   * [平凡的世界](part3/平凡的世界.md)
+  * [爱的24则运算](part3/爱的24则运算.md)
+  * [Python Script for Extracting Clippings](part3/extract-clippings.md)
 
