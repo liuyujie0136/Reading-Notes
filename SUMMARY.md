@@ -34,6 +34,9 @@
   * [爱的24则运算](part3/爱的24则运算.md)
 * [Part 4](part4/part4.md)
   * [契诃夫短篇小说精选](part4/契诃夫短篇小说精选.md)
+  * [疑问集](part4/疑问集.md)
+  * [花与舌头](part4/花与舌头.md)
+  * [二十亿光年的孤独](part4/二十亿光年的孤独.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
 
