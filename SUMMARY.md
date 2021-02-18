@@ -32,5 +32,8 @@
   * [在中途换飞机的时候](part3/在中途换飞机的时候.md)
   * [平凡的世界](part3/平凡的世界.md)
   * [爱的24则运算](part3/爱的24则运算.md)
-  * [Python Script for Extracting Clippings](part3/extract-clippings.md)
+* [Part 4](part4/part4.md)
+  * [契诃夫短篇小说精选](part4/契诃夫短篇小说精选.md)
+* Appendix
+  * [Python Script for Extracting Clippings](extract-clippings.md)
 
