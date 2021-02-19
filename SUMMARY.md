@@ -34,9 +34,16 @@
   * [爱的24则运算](part3/爱的24则运算.md)
 * [Part 4](part4/part4.md)
   * [契诃夫短篇小说精选](part4/契诃夫短篇小说精选.md)
+  * [病隙碎笔](part4/病隙碎笔.md)
   * [疑问集](part4/疑问集.md)
   * [花与舌头](part4/花与舌头.md)
+  * [二十首情诗和一首绝望的歌](part4/二十首情诗和一首绝望的歌.md)
   * [二十亿光年的孤独](part4/二十亿光年的孤独.md)
+  * [宴后](part4/宴后.md)
+  * [我与地坛](part4/我与地坛.md)
+  * [泰戈尔诗选](part4/泰戈尔诗选.md)
+  * [苏菲的世界](part4/苏菲的世界.md)
+  * [普希金诗选](part4/普希金诗选.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
 
