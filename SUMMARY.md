@@ -46,6 +46,14 @@
   * [文史补录](part4/文史补录.md)
   * [苏菲的世界](part4/苏菲的世界.md)
   * [普希金诗选](part4/普希金诗选.md)
+  * [人间草木](part4/人间草木.md)
+  * [围城](part4/围城.md)
+  * [文化苦旅](part4/文化苦旅.md)
+  * [西川的诗](part4/西川的诗.md)
+  * [云雀叫了一整天](part4/云雀叫了一整天.md)
+  * [沙之书](part4/沙之书.md)
+  * [夜空总有最大密度的蓝色](part4/夜空总有最大密度的蓝色.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
+  * [Bash Script for Processing OCR Outputs](ocr-processing.md)
 
