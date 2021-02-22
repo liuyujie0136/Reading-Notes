@@ -53,6 +53,13 @@
   * [云雀叫了一整天](part4/云雀叫了一整天.md)
   * [沙之书](part4/沙之书.md)
   * [夜空总有最大密度的蓝色](part4/夜空总有最大密度的蓝色.md)
+  * [青春诗会·三十年诗选](part4/青春诗会三十年诗选.md)
+  * [深浅·西川诗文录](part4/深浅.md)
+  * [骆一禾的诗](part4/骆一禾的诗.md)
+  * [海子的诗](part4/海子的诗.md)
+  * [鼠疫](part4/鼠疫.md)
+  * [舒婷的诗](part4/舒婷的诗.md)
+  * [顾城的诗](part4/顾城的诗.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)
