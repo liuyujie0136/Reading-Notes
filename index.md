@@ -12,4 +12,4 @@
 
 ## [Contents](SUMMARY.md)
 
-## [GitBook Version](https://liuyujie0136.gitbook.io/reading-notes/)<sup>recommended</sup>
+## [GitBook Version](https://liuyujie0136.gitbook.io/reading-notes/)
