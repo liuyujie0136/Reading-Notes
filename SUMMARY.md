@@ -69,6 +69,8 @@
   * [木心诗选](part4/木心诗选.md)
   * [舒婷的诗](part4/舒婷的诗.md)
   * [顾城的诗](part4/顾城的诗.md)
+* [Part 5](part5/part5.md)
+  * [顾城的诗 顾城的话](part5/顾城的诗顾城的话.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)
