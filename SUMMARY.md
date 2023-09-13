@@ -70,6 +70,9 @@
   * [舒婷的诗](part4/舒婷的诗.md)
   * [顾城的诗](part4/顾城的诗.md)
 * [Part 5](part5/part5.md)
+  * [余光中文集](part5/余光中文集.md)
+  * [我们仨](part5/我们仨.md)
+  * [巨鲸歌唱](part5/巨鲸歌唱.md)
   * [顾城的诗 顾城的画](part5/顾城的诗顾城的画.md)
   * [张枣的诗](part5/张枣的诗.md)
   * [昌耀的诗](part5/昌耀的诗.md)
@@ -77,6 +80,8 @@
   * [当我终于变得沉默](part5/当我终于变得沉默.md)
   * [在夜晚的高原上](part5/在夜晚的高原上.md)
   * [落在纸上的雪](part5/落在纸上的雪.md)
+  * [千只鹤 波千鸟 伊豆的舞女](part5/千只鹤·波千鸟·伊豆的舞女.md)
+  * [挪威的森林](part5/挪威的森林.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)
