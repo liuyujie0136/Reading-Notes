@@ -92,6 +92,8 @@
   * [百年孤独](part5/百年孤独.md)
   * [德米安](part5/德米安.md)
   * [丰饶之海](part5/丰饶之海.md)
+  * [玻璃球游戏](part5/玻璃球游戏.md)
+  * [刚刚](part5/刚刚.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)
