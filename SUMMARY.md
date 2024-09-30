@@ -94,6 +94,7 @@
   * [丰饶之海](part5/丰饶之海.md)
   * [玻璃球游戏](part5/玻璃球游戏.md)
   * [刚刚](part5/刚刚.md)
+  * [谷川的诗](part5/谷川的诗.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)

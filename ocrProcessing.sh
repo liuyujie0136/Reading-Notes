@@ -1,6 +1,3 @@
-# Bash Script for Processing OCR Outputs
-
-```bash
 #!/bin/bash
 
 # Usage: bash ocrProcessing.sh 2 tmp.txt > out.md
@@ -16,4 +13,3 @@ then
 fi
 
 exit 0
-```
