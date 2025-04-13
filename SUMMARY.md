@@ -98,6 +98,8 @@
   * [世界尽头与冷酷仙境](part5/世界尽头与冷酷仙境.md)
   * [国境以南，太阳以西](part5/国境以南太阳以西.md)
   * [斯普特尼克恋人](part5/斯普特尼克恋人.md)
+  * [红玫瑰与白玫瑰](part5/红玫瑰与白玫瑰.md)
+  * [半生缘](part5/半生缘.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)
