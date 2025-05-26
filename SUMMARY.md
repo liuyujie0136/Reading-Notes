@@ -102,6 +102,8 @@
   * [红玫瑰与白玫瑰](part6/红玫瑰与白玫瑰.md)
   * [半生缘](part6/半生缘.md)
   * [小团圆](part6/小团圆.md)
+  * [沉默的经典诗歌译丛](part6/沉默的经典诗歌译丛.md)
+  * [诗是承载生命重量的礼物](part6/诗是承载生命重量的礼物.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)
