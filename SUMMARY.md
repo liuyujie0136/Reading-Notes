@@ -104,6 +104,8 @@
   * [小团圆](part6/小团圆.md)
   * [沉默的经典诗歌译丛](part6/沉默的经典诗歌译丛.md)
   * [诗是承载生命重量的礼物](part6/诗是承载生命重量的礼物.md)
+  * [禁色](part6/禁色.md)
+  * [我是猫 草枕](part6/我是猫·草枕.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)
