@@ -110,6 +110,7 @@
   * [像孩子一样赞美世界：金子美玲诗集](part6/像孩子一样赞美世界.md)
   * [一生只看风景：卞之琳诗集](part6/一生只看风景.md)
   * [芒克的诗](part6/芒克的诗.md)
+  * [诗刊创刊60周年诗歌选](part6/诗刊创刊60周年诗歌选.md)
 * Appendix
   * [Python Script for Extracting Clippings](extract-clippings.md)
   * [Bash Script for Processing OCR Outputs](ocr-processing.md)
