@@ -1,0 +1,10 @@
+site:
+  title: Reading Notes
+  structure:
+    - type: space
+      key: space-reading-notes
+      title: Reading Notes
+      path: reading-notes
+      default: true
+      content:
+        directory: ./
